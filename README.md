@@ -32,3 +32,7 @@ El programa ofrece las siguientes operaciones:
 3. Compilá el archivo:
    ```bash
    javac Calculadora.java
+## 👨‍💻 Autor
+Desarrollado por Eduardo Agustín Félix López como parte de su formación en programación Java.
+
+📫 Contacto: [TuCorreo@example.com]  
